@@ -1,23 +1,10 @@
 # Havelsan K8s Eğitim 2024 
 
-Bulunan klasörlerde sırasıyla şu içeriklere örnek vardır:
-
-- 01
-    - Nginx ile basit web sayfası örneği
-- 02
-    - Express ile basit api servisi
-- 03
-    - Express ve Postgresql ile basit api servisi
-- 04
-    - Compose yaml ile Wordpress kurulumu    
-- 05
-    - React,Express ve Postgresql ile basit fullstack app
-- 06
-    - Compose.yaml ilde ElasticSearch kurulumu 
-- 07
-    - Flask & Redis ile basit sayaç uygulaması
-- Go İle basit
-
+Toplamda 4 gün süren eğitim için her güne 1 klasör oluşturulmuştur.
+- [1.Gün](https://github.com/benahmetcelik/k8s-training/tree/main/Day1)
+- [2.Gün](https://github.com/benahmetcelik/k8s-training/tree/main/Day2)
+- [3.Gün](https://github.com/benahmetcelik/k8s-training/tree/main/Day3)
+- [4.Gün](https://github.com/benahmetcelik/k8s-training/tree/main/Day4)
 
 Yararlı olabilecek balantılar:
 - [Ubuntu 22.04 Download](https://ir.releases.ubuntu.com/22.04/ubuntu-22.04.5-desktop-amd64.iso)
